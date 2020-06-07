@@ -126,6 +126,7 @@
 	</div>
 
 	<!-- Home Section -->
+<div> vertika </div>
 	<header class="section bg-home">
 		<div class="dark-overlay">
 			<div class="container">
